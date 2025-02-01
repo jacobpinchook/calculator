@@ -48,3 +48,18 @@ button {
     grid-row-gap: 15px;
     grid-column-gap: 10px;
 }
+
+.key-zero {
+    grid-column: span 2;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.key-operate {
+    background: #ff9501;
+}
+
+.key-others {
+    background: #a6a6a6;
+    color: #000000;
+}
